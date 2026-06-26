@@ -7,7 +7,7 @@ st.set_page_config(page_title="Film Rental Business Dashboard", page_icon="🎬"
 # Data Loading
 @st.cache_data
 def load_data():
-    df = pd.read_csv("film_dataset.csv")
+    df = pd.read_csv("film_dataset_1.csv")
     df["rental_date"] = pd.to_datetime(df["rental_date"])
     df["payment_date"] = pd.to_datetime(df["payment_date"])
     df["rental_month"] = df["rental_date"].dt.to_period("M").astype(str)
@@ -145,13 +145,13 @@ def render_film_performance(df):
         st.plotly_chart(fig, use_container_width=True)
         
     with col2:
-        st.subheader("🍕 Revenue share by Category")
+        st.subheader("Revenue share by Category")
         cat_rev = df.groupby("category")["payment_amount"].sum().reset_index()
         fig = px.pie(cat_rev, values="payment_amount", names="category", hole=0.4)
         st.plotly_chart(fig, use_container_width=True)
         
     st.markdown("---")
-    st.subheader("🚨 Inventory Stock Out / Rental Duration Risk")
+    st.subheader("Inventory Stock Out / Rental Duration Risk")
     # Films keeping customers waiting too long based on actual duration vs baseline
     inventory_risk = df.groupby("film_title").agg(
         avg_rental_duration=("rental_duration", "mean"),
@@ -166,7 +166,7 @@ def render_store_performance(df):
     col1, col2 = st.columns(2)
     
     with col1:
-        st.subheader("🏪 Store Performance Comparison")
+        st.subheader("Store Performance Comparison")
         store_comp = df.groupby("store_id").agg({"payment_amount": "sum", "rental_id": "count"}).reset_index()
         store_comp["store_id"] = store_comp["store_id"].astype(str)
         fig = px.bar(store_comp, x="store_id", y="payment_amount", color="store_id", labels={"payment_amount": "Total Revenue ($)", "store_id": "Store ID"})
