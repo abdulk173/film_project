@@ -1,0 +1,3 @@
+"store_id","staff_id","staff_name","total_rentals_processed","total_revenue_collected","number_of_unique_customers_served","average_rentals_per_day"
+2,2,"Jon Stephens",8004,30813.33,599,195.22
+1,1,"Mike Hillyer",8044,30498.71,599,196.20

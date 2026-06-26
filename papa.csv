@@ -1,0 +1,588 @@
+,store_id,city_id,customer_name,customer_country,customer_city,amount_spent_by_customer,number_rent_by_customer,staff_id,staff_name,total_revenue_in_geo_area,most_popular_film_category
+9,1,564,Mike Way,India,Valparai,162.67,33,1,Mike Hillyer,162.67,Foreign
+10,2,458,Arnold Havens,Philippines,Santa Rosa,161.68,32,2,Jon Stephens,161.68,Games
+11,2,388,Wesley Bull,Spain,Ourense (Orense),158.65,35,2,Jon Stephens,158.65,Games
+12,1,206,Gordon Allard,Yemen,Hodeida,157.69,31,1,Mike Hillyer,157.69,Action
+13,1,523,Louis Leone,Philippines,Tanauan,156.66,34,1,Mike Hillyer,156.66,Animation
+14,1,78,Tim Cary,India,Bijapur,154.66,34,1,Mike Hillyer,154.66,Animation
+15,2,197,Lena Jensen,India,Halisahar,152.71,29,2,Jon Stephens,152.71,Sports
+16,2,558,Warren Sherrod,Russian Federation,Usolje-Sibirskoje,152.69,31,2,Jon Stephens,152.69,Animation
+17,2,415,Steve Mackenzie,Indonesia,Probolinggo,152.68,32,2,Jon Stephens,152.68,Action
+18,2,506,Brittany Riley,Ukraine,Sumy,151.73,27,2,Jon Stephens,151.73,Classics
+19,2,599,Guy Brownlee,China,Zhoushan,151.69,31,2,Jon Stephens,151.69,Family
+20,1,483,June Carroll,Algeria,Skikda,151.68,32,1,Mike Hillyer,151.68,Animation
+21,2,100,Neil Renner,Vietnam,Cam Ranh,149.69,31,2,Jon Stephens,149.69,Classics
+22,2,108,Tammy Sanders,Taiwan,Changhwa,149.61,39,2,Jon Stephens,149.61,Family
+23,2,74,Tonya Chapman,India,Bhilwara,147.71,29,2,Jon Stephens,147.71,Action
+24,1,525,Michelle Clark,Bangladesh,Tangail,146.68,32,1,Mike Hillyer,146.68,Sci-Fi
+25,2,489,Jacqueline Long,Thailand,Songkhla,146.68,32,2,Jon Stephens,146.68,Drama
+26,2,121,Jessica Hall,Holy See (Vatican City State),Citt del Vaticano,146.68,32,2,Jon Stephens,146.68,Documentary
+27,1,174,Stacey Montgomery,China,Fuyu,146.67,33,1,Mike Hillyer,146.67,Music
+28,1,320,Arthur Simpkins,Russian Federation,Maikop,145.7,30,1,Mike Hillyer,145.7,Family
+29,1,50,Brandon Huey,Turkey,Balikesir,145.64,36,1,Mike Hillyer,145.64,Sci-Fi
+30,1,379,Diane Collins,Sudan,Omdurman,144.7,30,1,Mike Hillyer,144.7,Drama
+31,2,32,Ralph Madrigal,Puerto Rico,Arecibo,144.68,32,2,Jon Stephens,144.68,New
+32,2,209,Roger Quintanilla,Taiwan,Hsichuh,144.66,34,2,Jon Stephens,144.66,Action
+33,2,583,Duane Tubbs,Nauru,Yangor,143.7,30,2,Jon Stephens,143.7,Comedy
+34,2,556,Alex Gresham,Mexico,Uruapan,143.68,32,2,Jon Stephens,143.68,Sports
+35,2,137,Ryan Salisbury,Latvia,Daugavpils,142.7,30,2,Jon Stephens,142.7,Games
+36,1,358,Shawn Heaton,Thailand,Nakhon Sawan,142.69,31,1,Mike Hillyer,142.69,Animation
+37,1,298,Margie Wade,China,Lengshuijiang,142.67,33,1,Mike Hillyer,142.67,New
+38,2,64,Marsha Douglas,Mozambique,Beira,142.66,34,2,Jon Stephens,142.66,Documentary
+39,1,569,Debra Nelson,Brazil,Vila Velha,141.71,29,1,Mike Hillyer,141.71,Action
+40,1,425,Lori Wood,India,Rae Bareli,141.69,31,1,Mike Hillyer,141.69,Sports
+41,1,66,Nicholas Barfield,Brazil,Belm,140.69,31,1,Mike Hillyer,140.69,Sports
+42,2,372,Roy Whiting,Kenya,Nyeri,139.72,28,2,Jon Stephens,139.72,Action
+43,1,476,Sherry Marshall,Egypt,Shubra al-Khayma,139.69,31,1,Mike Hillyer,139.69,Sci-Fi
+44,1,356,Harry Arce,Iran,Najafabad,139.69,31,1,Mike Hillyer,139.69,Animation
+45,2,321,Janice Ward,Sweden,Malm,139.67,33,2,Jon Stephens,139.67,Classics
+46,1,357,Tanya Gilbert,South Korea,Naju,138.69,31,1,Mike Hillyer,138.69,Classics
+47,2,474,Angela Hernandez,Japan,Shimonoseki,138.65,35,2,Jon Stephens,138.65,Children
+48,1,480,Wanda Patterson,Colombia,Sincelejo,137.72,28,1,Mike Hillyer,137.72,Action
+49,1,217,Marilyn Ross,Nigeria,Ife,137.7,30,1,Mike Hillyer,137.7,New
+50,2,70,Alexander Fennell,Italy,Bergamo,137.67,33,2,Jon Stephens,137.67,Family
+51,1,577,Jimmie Eggleston,Poland,Wroclaw,135.72,28,1,Mike Hillyer,135.72,Comedy
+52,2,434,Ramon Choate,Ecuador,Robamba,135.7,30,2,Jon Stephens,135.7,Sports
+53,2,168,Morris Mccarter,Taiwan,Fengshan,135.68,32,2,Jon Stephens,135.68,New
+54,1,248,Kent Arsenault,Brazil,Juiz de Fora,134.73,27,1,Mike Hillyer,134.73,Sports
+55,2,129,Alvin Deloach,Mexico,Cuauhtmoc,134.72,28,2,Jon Stephens,134.72,Children
+56,1,11,Zachary Hite,United States,Akron,134.71,29,1,Mike Hillyer,134.71,Comedy
+57,2,147,Sylvia Ortiz,Colombia,Dos Quebradas,134.7,30,2,Jon Stephens,134.7,Action
+58,2,7,Ella Oliver,Yemen,Aden,134.7,30,2,Jon Stephens,134.7,New
+59,1,557,Rosemary Schmidt,Turkey,Usak,134.69,31,1,Mike Hillyer,134.69,Foreign
+60,1,76,Helen Harris,India,Bhopal,134.68,32,1,Mike Hillyer,134.68,Classics
+61,1,361,Elizabeth Brown,Taiwan,Nantou,134.65,35,1,Mike Hillyer,134.65,Classics
+62,2,221,Joe Gilliland,Philippines,Imus,133.72,28,2,Jon Stephens,133.72,Foreign
+63,2,380,Stanley Scroggins,Japan,Omiya,133.71,29,2,Jon Stephens,133.71,Animation
+64,1,58,Bernice Willis,Turkey,Batman,133.7,30,1,Mike Hillyer,133.7,Action
+65,2,109,Sue Peters,China,Changzhou,133.68,32,2,Jon Stephens,133.68,Comedy
+66,2,378,Jennie Terry,Czech Republic,Olomouc,132.72,28,2,Jon Stephens,132.72,Children
+67,1,80,Jessie Milam,China,Binzhou,132.7,30,1,Mike Hillyer,132.7,Sports
+68,1,549,Russell Brinson,Poland,Tychy,132.65,35,1,Mike Hillyer,132.65,Foreign
+69,1,359,Greg Robins,Vietnam,Nam Dinh,131.74,26,1,Mike Hillyer,131.74,Music
+70,2,384,Karen Jackson,Turkey,Osmaniye,131.73,27,2,Jon Stephens,131.73,Classics
+71,2,343,Catherine Campbell,Russian Federation,Moscow,131.69,31,2,Jon Stephens,131.69,Animation
+72,1,85,Ethel Webb,South Africa,Boksburg,131.69,31,1,Mike Hillyer,131.69,Documentary
+73,1,38,Linda Williams,Greece,Athenai,130.76,24,1,Mike Hillyer,130.76,Action
+74,2,445,Priscilla Lowe,Mexico,Salamanca,130.72,28,2,Jon Stephens,130.72,Sci-Fi
+75,1,280,Maria Miller,Yugoslavia,Kragujevac,130.72,28,1,Mike Hillyer,130.72,Animation
+76,1,478,Brett Cornwell,India,Siliguri (Shiliguri),130.7,30,1,Mike Hillyer,130.7,Documentary
+77,1,538,Casey Mena,Turkey,Tokat,130.68,32,1,Mike Hillyer,130.68,Action
+78,1,84,Harold Martino,Brazil,Boa Vista,130.68,32,1,Mike Hillyer,130.68,Classics
+79,2,292,Rosa Reynolds,United States,Lancaster,129.72,28,2,Jon Stephens,129.72,Classics
+80,1,43,Jordan Archuleta,Argentina,Avellaneda,129.71,29,1,Mike Hillyer,129.71,Action
+81,1,34,Crystal Ford,Israel,Ashdod,129.7,30,1,Mike Hillyer,129.7,Sci-Fi
+82,1,240,Regina Berry,China,Jinchang,129.68,32,1,Mike Hillyer,129.68,Foreign
+83,1,587,Roberto Vu,China,Yinchuan,128.73,27,1,Mike Hillyer,128.73,Drama
+84,1,220,Gladys Hamilton,Nigeria,Ilorin,128.71,29,1,Mike Hillyer,128.71,Animation
+85,1,422,Glenda Frazier,China,Qinhuangdao,128.71,29,1,Mike Hillyer,128.71,New
+86,2,40,Sara Perry,Mexico,Atlixco,128.7,30,2,Jon Stephens,128.7,Animation
+87,1,325,Alma Austin,Germany,Mannheim,128.69,31,1,Mike Hillyer,128.69,Animation
+88,1,511,Bessie Morrison,Italy,Syrakusa,127.73,27,1,Mike Hillyer,127.73,Drama
+89,1,160,Miguel Betancourt,Germany,Erlangen,127.73,27,1,Mike Hillyer,127.73,Travel
+90,1,172,Debbie Reyes,Japan,Fukuyama,127.69,31,1,Mike Hillyer,127.69,Children
+91,2,366,Mitchell Westmoreland,Vietnam,Nha Trang,127.69,31,2,Jon Stephens,127.69,Drama
+92,1,115,Martha Gonzalez,Moldova,Chisinau,127.66,34,1,Mike Hillyer,127.66,Children
+93,2,35,Jeanne Lawson,Turkmenistan,Ashgabat,126.74,26,2,Jon Stephens,126.74,Family
+94,1,83,Terri Vasquez,Brazil,Blumenau,126.73,27,1,Mike Hillyer,126.73,New
+95,1,499,Jamie Rice,United States,Sterling Heights,126.73,27,1,Mike Hillyer,126.73,Music
+96,1,565,Troy Quigley,Canada,Vancouver,126.73,27,1,Mike Hillyer,126.73,Animation
+97,1,213,Tracy Cole,Mexico,Huixquilucan,126.72,28,1,Mike Hillyer,126.72,Comedy
+98,2,148,Grace Ellis,Germany,Duisburg,126.7,30,2,Jon Stephens,126.7,Foreign
+99,1,125,Maurice Crawley,Mexico,Coatzacoalcos,125.74,26,1,Mike Hillyer,125.74,Foreign
+100,1,418,Bradley Motley,India,Purnea (Purnia),125.74,26,1,Mike Hillyer,125.74,Documentary
+101,1,274,Daisy Bates,Russian Federation,Kolpino,125.72,28,1,Mike Hillyer,125.72,Family
+102,2,555,Joanne Robertson,Japan,Urawa,125.68,32,2,Jon Stephens,125.68,Action
+103,2,461,Justin Ngo,Brazil,Santo Andr,125.67,33,2,Jon Stephens,125.67,Documentary
+104,1,27,Janet Phillips,Chile,Antofagasta,124.74,26,1,Mike Hillyer,124.74,Action
+105,1,289,Julia Flores,Argentina,La Plata,124.71,29,1,Mike Hillyer,124.71,Action
+106,2,218,Elsie Kelley,Nigeria,Ikerre,124.68,32,2,Jon Stephens,124.68,Documentary
+107,1,302,Carrie Porter,China,Liaocheng,124.66,34,1,Mike Hillyer,124.66,Children
+108,1,398,John Farnsworth,India,Parbhani,123.74,26,1,Mike Hillyer,123.74,Action
+109,1,449,Patricia Johnson,United States,San Bernardino,123.74,26,1,Mike Hillyer,123.74,Sports
+110,2,412,Leslie Seward,Indonesia,Pontianak,123.72,28,2,Jon Stephens,123.72,Action
+111,1,98,Billy Poulin,Philippines,Cabuyao,123.71,29,1,Mike Hillyer,123.71,Sports
+112,1,171,Alice Stewart,United States,Fontana,123.7,30,1,Mike Hillyer,123.7,Action
+113,2,138,Shirley Allen,Philippines,Davao,123.7,30,2,Jon Stephens,123.7,Foreign
+114,1,316,Melissa King,Taiwan,Lungtan,123.66,34,1,Mike Hillyer,123.66,Drama
+115,2,183,Tina Simmons,Brazil,Goinia,122.74,26,2,Jon Stephens,122.74,Drama
+116,1,391,Eddie Tomlin,Philippines,Ozamis,122.74,26,1,Mike Hillyer,122.74,Animation
+117,1,363,Javier Elrod,Chad,NDjamna,122.72,28,1,Mike Hillyer,122.72,Sci-Fi
+118,1,253,Cathy Spencer,Japan,Kakamigahara,122.71,29,1,Mike Hillyer,122.71,Documentary
+119,2,294,Viola Hanson,Philippines,Lapu-Lapu,122.7,30,2,Jon Stephens,122.7,Comedy
+120,2,301,Jorge Olivares,Indonesia,Lhokseumawe,122.69,31,2,Jon Stephens,122.69,Foreign
+121,2,568,Milton Howland,India,Vijayawada,121.77,23,2,Jon Stephens,121.77,Action
+122,2,589,Gilbert Sledge,United Kingdom,York,121.73,27,2,Jon Stephens,121.73,Drama
+123,1,304,Lynn Payne,Malawi,Lilongwe,121.73,27,1,Mike Hillyer,121.73,Classics
+124,1,154,Jim Rea,Mexico,El Fuerte,121.7,30,1,Mike Hillyer,121.7,Sci-Fi
+125,1,272,Barry Lovelace,Zambia,Kitwe,121.7,30,1,Mike Hillyer,121.7,Animation
+126,1,111,Nathan Runyon,"Virgin Islands, U.S.",Charlotte Amalie,121.69,31,1,Mike Hillyer,121.69,Animation
+127,2,337,Rick Mattox,Egypt,Mit Ghamr,120.75,25,2,Jon Stephens,120.75,Sci-Fi
+128,2,465,Alfred Casillas,Egypt,Sawhaj,120.74,26,2,Jon Stephens,120.74,Drama
+129,1,270,Dana Hart,Russian Federation,Kirovo-Tepetsk,120.74,26,1,Mike Hillyer,120.74,Family
+130,2,93,Marc Outlaw,Italy,Brindisi,120.71,29,2,Jon Stephens,120.71,Classics
+131,1,305,Thelma Murray,Peru,Lima,120.7,30,1,Mike Hillyer,120.7,Horror
+132,1,350,Cheryl Murphy,India,Mysore,119.76,24,1,Mike Hillyer,119.76,New
+133,1,157,Alan Kahn,China,Emeishan,119.75,25,1,Mike Hillyer,119.75,Classics
+134,2,408,Hector Poindexter,Russian Federation,Pjatigorsk,119.74,26,2,Jon Stephens,119.74,Action
+135,1,371,Gertrude Castillo,Greenland,Nuuk,119.72,28,1,Mike Hillyer,119.72,Games
+136,1,507,Charles Kowalski,Malaysia,Sungai Petani,119.72,28,1,Mike Hillyer,119.72,Sci-Fi
+137,1,479,Kathryn Coleman,Ukraine,Simferopol,118.76,24,1,Mike Hillyer,118.76,Action
+138,1,586,Stephanie Mitchell,Armenia,Yerevan,118.75,25,1,Mike Hillyer,118.75,Animation
+139,1,311,Tracy Herrmann,Ecuador,Loja,118.75,25,1,Mike Hillyer,118.75,Comedy
+140,2,214,Jaime Nettles,Peru,Hunuco,118.73,27,2,Jon Stephens,118.73,Family
+141,2,544,Virginia Green,France,Toulouse,118.7,30,2,Jon Stephens,118.7,Action
+142,1,236,Marjorie Tucker,Poland,Jastrzebie-Zdrj,118.7,30,1,Mike Hillyer,118.7,Animation
+143,2,86,Joy George,Romania,Botosani,118.69,31,2,Jon Stephens,118.69,Sci-Fi
+144,1,386,Miriam Mckinney,Japan,Otsu,117.77,23,1,Mike Hillyer,117.77,Sci-Fi
+145,1,494,Marshall Thorn,United Kingdom,Southampton,117.77,23,1,Mike Hillyer,117.77,Games
+146,1,424,Perry Swafford,Argentina,Quilmes,117.76,24,1,Mike Hillyer,117.76,Sports
+147,1,245,Nathaniel Adam,United States,Joliet,117.75,25,1,Mike Hillyer,117.75,Drama
+148,1,416,Lee Hawks,India,Pudukkottai,117.75,25,1,Mike Hillyer,117.75,Sci-Fi
+149,1,598,Byron Box,Kazakstan,Zhezqazghan,117.72,28,1,Mike Hillyer,117.72,Documentary
+150,2,237,Joyce Edwards,Saudi Arabia,Jedda,116.76,24,2,Jon Stephens,116.76,Family
+151,1,94,Valerie Black,United States,Brockton,116.75,25,1,Mike Hillyer,116.75,Sports
+152,1,338,Terry Carlson,Japan,Miyakonojo,116.74,26,1,Mike Hillyer,116.74,Animation
+153,1,263,Naomi Jennings,India,Karnal,116.73,27,1,Mike Hillyer,116.73,New
+154,1,323,Hilda Hopkins,Philippines,Mandaluyong,116.73,27,1,Mike Hillyer,116.73,Sci-Fi
+155,1,61,Kathy James,Philippines,Baybay,116.72,28,1,Mike Hillyer,116.72,Music
+156,2,464,Gerald Fultz,India,Satna,116.71,29,2,Jon Stephens,116.71,Foreign
+157,1,397,Gloria Cook,French Polynesia,Papeete,115.74,26,1,Mike Hillyer,115.74,Classics
+158,1,312,Cecil Vines,United Kingdom,London,115.74,26,1,Mike Hillyer,174.54,Drama
+159,2,75,Erik Guillen,India,Bhimavaram,115.72,28,2,Jon Stephens,115.72,Sci-Fi
+160,1,278,Philip Causey,Russian Federation,Korolev,115.71,29,1,Mike Hillyer,115.71,Action
+161,1,187,Veronica Stone,United States,Greensboro,115.7,30,1,Mike Hillyer,115.7,Animation
+162,2,514,Dianne Shelton,Iran,Tabriz,114.76,24,2,Jon Stephens,114.76,Sci-Fi
+163,1,227,Teresa Rogers,Japan,Iwakuni,114.74,26,1,Mike Hillyer,114.74,Animation
+164,2,54,Salvador Teel,Gambia,Banjul,114.73,27,2,Jon Stephens,114.73,Comedy
+165,2,414,Patsy Davidson,Ecuador,Portoviejo,114.73,27,2,Jon Stephens,114.73,Family
+166,1,334,Florence Woods,Argentina,Merlo,114.72,28,1,Mike Hillyer,114.72,Sci-Fi
+167,2,104,Craig Morrell,Philippines,Cavite,114.72,28,2,Jon Stephens,114.72,Action
+168,1,463,Mary Smith,Japan,Sasebo,114.7,30,1,Mike Hillyer,114.7,Classics
+169,1,351,Don Bone,Mozambique,Naala-Porto,113.77,23,1,Mike Hillyer,113.77,Action
+170,1,91,Christopher Greco,Italy,Brescia,113.75,25,1,Mike Hillyer,113.75,Action
+171,1,536,Michael Silverman,China,Tiefa,113.74,26,1,Mike Hillyer,113.74,Animation
+172,2,447,Nora Herrera,Austria,Salzburg,113.74,26,2,Jon Stephens,113.74,Drama
+173,1,542,Amber Dixon,Taiwan,Touliu,113.73,27,1,Mike Hillyer,113.73,Action
+174,2,299,Dave Gardiner,China,Leshan,113.73,27,2,Jon Stephens,113.73,Sports
+175,2,134,Jeffery Pinson,Pakistan,Dadu,113.72,28,2,Jon Stephens,113.72,Action
+176,1,490,George Linton,Brazil,Sorocaba,113.71,29,1,Mike Hillyer,113.71,Sports
+177,1,136,Christy Vargas,China,Datong,113.7,30,1,Mike Hillyer,113.7,Music
+178,1,436,Tyrone Asher,Bulgaria,Ruse,112.76,24,1,Mike Hillyer,112.76,Documentary
+179,2,212,Andy Vanhorn,Mexico,Huejutla de Reyes,112.76,24,2,Jon Stephens,112.76,Sci-Fi
+180,1,306,Ashley Richardson,United States,Lincoln,112.75,25,1,Mike Hillyer,112.75,Documentary
+181,1,239,Amy Lopez,India,Jhansi,112.74,26,1,Mike Hillyer,112.74,Family
+182,2,345,Monica Hicks,Ukraine,Mukateve,112.73,27,2,Jon Stephens,112.73,Action
+183,1,469,Clyde Tobias,China,Shaoguan,112.72,28,1,Mike Hillyer,112.72,Animation
+184,1,326,Calvin Martel,Venezuela,Maracabo,111.77,23,1,Mike Hillyer,111.77,New
+185,1,382,Jerry Jordon,Japan,Onomichi,111.76,24,1,Mike Hillyer,111.76,Sci-Fi
+186,1,22,Arlene Harvey,India,Ambattur,111.76,24,1,Mike Hillyer,111.76,Drama
+187,2,526,Clifton Malcolm,Taiwan,Tanshui,111.74,26,2,Jon Stephens,111.74,Action
+188,2,344,Daryl Larue,Iraq,Mosul,111.73,27,2,Jon Stephens,111.73,Sports
+189,2,132,Cindy Fisher,Venezuela,Cuman,111.73,27,2,Jon Stephens,111.73,Documentary
+190,1,186,Audrey Ray,Austria,Graz,111.73,27,1,Mike Hillyer,111.73,Documentary
+191,1,512,Terrance Roush,Hungary,Szkesfehrvr,111.71,29,1,Mike Hillyer,111.71,Family
+192,2,195,Holly Fox,India,Haldia,111.71,29,2,Jon Stephens,111.71,Classics
+193,2,394,Carolyn Perez,Thailand,Pak Kret,111.71,29,2,Jon Stephens,111.71,Sci-Fi
+194,2,287,Jamie Waugh,Japan,Kuwana,110.77,23,2,Jon Stephens,110.77,Sports
+195,2,47,Charlie Bess,China,Baiyin,110.76,24,2,Jon Stephens,110.76,Action
+196,1,460,Myrtle Fleming,Dominican Republic,Santiago de los Caballeros,110.76,24,1,Mike Hillyer,110.76,Drama
+197,1,127,Andre Rapp,Chile,Coquimbo,110.74,26,1,Mike Hillyer,110.74,Classics
+198,2,590,Michele Grant,China,Yuncheng,110.73,27,2,Jon Stephens,110.73,Sci-Fi
+199,1,518,Gina Williamson,Yemen,Taizz,110.73,27,1,Mike Hillyer,110.73,Family
+200,2,79,Everett Banda,Egypt,Bilbays,110.72,28,2,Jon Stephens,110.72,Animation
+201,2,332,Ruby Washington,China,Meixian,110.72,28,2,Jon Stephens,110.72,Animation
+202,1,242,Terrence Gunderson,China,Jinzhou,110.71,29,1,Mike Hillyer,110.71,Documentary
+203,2,578,Heidi Larson,China,Xiangfan,110.68,32,2,Jon Stephens,110.68,New
+204,2,539,Fernando Churchill,South Korea,Tonghae,109.77,23,2,Jon Stephens,109.77,Music
+205,1,550,Beatrice Arnold,India,Udaipur,109.77,23,1,Mike Hillyer,109.77,Sci-Fi
+206,2,131,Isaac Oglesby,Mexico,Cuernavaca,109.76,24,2,Jon Stephens,109.76,Music
+207,2,593,Charlene Alvarez,Tanzania,Zanzibar,109.75,25,2,Jon Stephens,109.75,New
+208,1,352,Clifford Bowens,Russian Federation,Nabereznyje Telny,109.73,27,1,Mike Hillyer,109.73,Action
+209,1,285,Randy Gaither,Russian Federation,Kurgan,109.73,27,1,Mike Hillyer,109.73,Classics
+210,2,46,Ted Breaux,China,Baicheng,109.73,27,2,Jon Stephens,109.73,Sports
+211,1,258,Todd Tan,Ukraine,Kamjanets-Podilskyi,109.72,28,1,Mike Hillyer,109.72,Children
+212,1,347,Herman Devore,Tanzania,Mwanza,109.72,28,1,Mike Hillyer,109.72,Games
+213,2,554,Theodore Culp,India,Uluberia,109.72,28,2,Jon Stephens,109.72,Foreign
+214,2,468,Kyle Spurlock,China,Shanwei,109.71,29,2,Jon Stephens,109.71,Drama
+215,1,69,Sonia Gregory,Nigeria,Benin City,108.78,22,1,Mike Hillyer,108.78,Action
+216,1,241,Eduardo Hiatt,China,Jining,108.77,23,1,Mike Hillyer,108.77,Sports
+217,2,14,Seth Hannon,Bahrain,al-Manama,108.76,24,2,Jon Stephens,108.76,Sports
+218,2,374,Olga Jimenez,Nigeria,Ogbomosho,108.76,24,2,Jon Stephens,108.76,Sports
+219,2,505,Raymond Mcwhorter,Azerbaijan,Sumqayit,108.75,25,2,Jon Stephens,108.75,Foreign
+220,1,482,Gabriel Harder,Turkey,Sivas,108.75,25,1,Mike Hillyer,108.75,Drama
+221,2,10,Julian Vest,Japan,Akishima,108.73,27,2,Jon Stephens,108.73,Children
+222,2,118,Minnie Romero,Indonesia,Ciomas,108.72,28,2,Jon Stephens,108.72,Animation
+223,2,107,Sally Pierce,India,Chandrapur,108.71,29,2,Jon Stephens,108.71,Music
+224,2,146,Mae Fletcher,Spain,Donostia-San Sebastin,107.79,21,2,Jon Stephens,107.79,Sports
+225,2,409,Johnnie Chisholm,Poland,Plock,107.78,22,2,Jon Stephens,107.78,Sports
+226,2,189,Jesus Mccartney,Brazil,Guaruj,107.77,23,2,Jon Stephens,107.77,Documentary
+227,2,495,Sandra Martin,United Kingdom,Southend-on-Sea,107.76,24,2,Jon Stephens,107.76,Sports
+228,1,143,Stephen Qualls,Bangladesh,Dhaka,107.74,26,1,Mike Hillyer,107.74,Drama
+229,1,491,Lucille Holmes,South Africa,Soshanguve,107.73,27,1,Mike Hillyer,107.73,Animation
+230,1,574,Marion Ocampo,China,Weifang,107.73,27,1,Mike Hillyer,107.73,Classics
+231,1,59,Mario Cheatham,Algeria,Batna,107.73,27,1,Mike Hillyer,107.73,New
+232,2,420,Darlene Rose,North Korea,Pyongyang,107.71,29,2,Jon Stephens,107.71,Documentary
+233,2,413,Maxine Silva,Brazil,Poos de Caldas,107.7,30,2,Jon Stephens,107.7,Sci-Fi
+234,2,450,Jeff East,Dominican Republic,San Felipe de Puerto Plata,107.7,30,2,Jon Stephens,107.7,Foreign
+235,2,53,Lois Butler,Brunei,Bandar Seri Begawan,107.66,34,2,Jon Stephens,107.66,Sports
+236,1,500,Dan Paine,United Kingdom,Stockport,106.79,21,1,Mike Hillyer,106.79,Animation
+237,1,226,Marlene Welch,Japan,Iwaki,106.77,23,1,Mike Hillyer,106.77,New
+238,1,335,Douglas Graf,Mexico,Mexicali,106.77,23,1,Mike Hillyer,106.77,Family
+239,1,72,Gail Knight,Switzerland,Bern,106.76,24,1,Mike Hillyer,106.76,Animation
+240,1,233,Claudia Fuller,Kuwait,Jalib al-Shuyukh,106.75,25,1,Mike Hillyer,106.75,Classics
+241,1,403,Victoria Gibson,Indonesia,Pemalang,106.74,26,1,Mike Hillyer,106.74,Family
+242,1,244,Dean Sauer,South Africa,Johannesburg,106.74,26,1,Mike Hillyer,106.74,Music
+243,2,303,Sarah Lewis,Latvia,Liepaja,106.73,27,2,Jon Stephens,106.73,Sci-Fi
+244,2,435,Bill Gavin,United States,Rockford,106.73,27,2,Jon Stephens,106.73,Drama
+245,2,310,Erin Dunn,Russian Federation,Ljubertsy,106.73,27,2,Jon Stephens,106.73,Documentary
+246,1,1,Julie Sanchez,Spain,A Corua (La Corua),106.72,28,1,Mike Hillyer,106.72,Comedy
+247,1,207,Hazel Warren,China,Hohhot,106.68,32,1,Mike Hillyer,106.68,Sports
+248,1,487,Sam Mcduffie,Colombia,Sogamoso,105.78,22,1,Mike Hillyer,105.78,Animation
+249,2,484,Elaine Stevens,Russian Federation,Smolensk,105.78,22,2,Jon Stephens,105.78,Travel
+250,1,457,Eric Robert,Argentina,Santa F,105.78,22,1,Mike Hillyer,105.78,Drama
+251,2,140,Shelly Watts,United States,Dayton,105.77,23,2,Jon Stephens,105.77,Action
+252,2,271,Katie Elliott,Kenya,Kisumu,105.77,23,2,Jon Stephens,105.77,Games
+253,1,282,Jean Bell,Malaysia,Kuching,105.76,24,1,Mike Hillyer,105.76,Action
+254,2,135,Bryan Hardison,United States,Dallas,105.76,24,2,Jon Stephens,105.76,Comedy
+255,2,353,Amanda Carter,Morocco,Nador,105.74,26,2,Jon Stephens,105.74,Action
+256,1,228,Earl Shanks,Japan,Iwatsuki,105.74,26,1,Mike Hillyer,105.74,Animation
+257,1,41,Diana Alexander,United States,Augusta-Richmond County,105.73,27,1,Mike Hillyer,105.73,Documentary
+258,2,530,Marcus Hidalgo,Estonia,Tartu,105.72,28,2,Jon Stephens,105.72,Family
+259,1,346,Cynthia Young,India,Munger (Monghyr),105.7,30,1,Mike Hillyer,105.7,Action
+260,1,453,Carl Artis,Paraguay,San Lorenzo,104.79,21,1,Mike Hillyer,104.79,Horror
+261,1,504,Brent Harkins,Turkey,Sultanbeyli,104.78,22,1,Mike Hillyer,104.78,Horror
+262,1,279,Violet Rodriquez,Hong Kong,Kowloon and New Kowloon,104.76,24,1,Mike Hillyer,104.76,Foreign
+263,2,223,Dolores Wagner,Malaysia,Ipoh,104.75,25,2,Jon Stephens,104.75,Children
+264,1,164,Josephine Gomez,India,Etawah,104.75,25,1,Mike Hillyer,104.75,Action
+265,2,257,Brenda Wright,India,Kamarhati,104.74,26,2,Jon Stephens,104.74,Classics
+266,1,437,Dale Ratcliff,South Africa,Rustenburg,104.74,26,1,Mike Hillyer,104.74,Games
+267,1,472,Deborah Walker,Pakistan,Shikarpur,104.73,27,1,Mike Hillyer,104.73,Action
+268,1,39,Jimmy Schrader,Russian Federation,Atinsk,104.72,28,1,Mike Hillyer,104.72,Drama
+269,1,540,Leroy Bustamante,China,Tongliao,104.71,29,1,Mike Hillyer,104.71,Animation
+270,1,151,Peter Menard,Netherlands,Ede,103.78,22,1,Mike Hillyer,103.78,New
+271,2,400,Ramona Hale,India,Patiala,103.77,23,2,Jon Stephens,103.77,Sports
+272,2,389,Tracey Barrett,Nigeria,Owo,103.77,23,2,Jon Stephens,103.77,Children
+273,2,77,Carla Gutierrez,India,Bhusawal,103.74,26,2,Jon Stephens,103.74,Animation
+274,1,508,Kristin Johnston,United States,Sunnyvale,103.74,26,1,Mike Hillyer,103.74,Sports
+275,1,553,Courtney Day,South Korea,Uijongbu,103.74,26,1,Mike Hillyer,103.74,Animation
+276,1,230,Manuel Murrell,Sri Lanka,Jaffna,103.73,27,1,Mike Hillyer,103.73,Children
+277,2,327,Sharon Robinson,Pakistan,Mardan,103.73,27,2,Jon Stephens,103.73,New
+278,2,470,Misty Lambert,United Arab Emirates,Sharja,102.78,22,2,Jon Stephens,102.78,Drama
+279,1,368,Max Pitt,Yugoslavia,Novi Sad,102.77,23,1,Mike Hillyer,102.77,Sci-Fi
+280,2,259,Ben Easter,Russian Federation,Kamyin,102.77,23,2,Jon Stephens,102.77,Animation
+281,1,12,Lillian Griffin,United Arab Emirates,al-Ayn,102.76,24,1,Mike Hillyer,102.76,Sports
+282,1,106,Sergio Stanfield,Mexico,Celaya,102.76,24,1,Mike Hillyer,102.76,Documentary
+283,2,513,Yolanda Weaver,Tanzania,Tabora,102.75,25,2,Jon Stephens,102.75,Action
+284,1,410,Ellen Simpson,Brazil,Po,102.75,25,1,Mike Hillyer,102.75,Action
+285,1,308,Marie Turner,Russian Federation,Lipetsk,101.79,21,1,Mike Hillyer,101.79,Animation
+286,1,145,Leo Ebert,China,Dongying,101.78,22,1,Mike Hillyer,101.78,Games
+287,1,238,Robin Hayes,Russian Federation,Jelets,101.77,23,1,Mike Hillyer,101.77,Animation
+288,2,177,Rene Mcalister,United States,Garden Grove,101.76,24,2,Jon Stephens,101.76,Horror
+289,1,126,Renee Lane,United States,Compton,101.72,28,1,Mike Hillyer,101.72,Games
+290,1,524,Leonard Schofield,Argentina,Tandil,101.7,30,1,Mike Hillyer,101.7,Documentary
+291,1,4,Glen Talbert,Mexico,Acua,100.77,23,1,Mike Hillyer,100.77,Children
+292,1,133,Sidney Burleson,Poland,Czestochowa,100.76,24,1,Mike Hillyer,100.76,Sports
+293,2,116,Brad Mccurdy,Taiwan,Chungho,100.76,24,2,Jon Stephens,100.76,Drama
+294,2,567,Willie Howell,Argentina,Vicente Lpez,100.75,25,2,Jon Stephens,100.75,Sci-Fi
+295,2,198,Vickie Brewer,Germany,Halle/Saale,100.75,25,2,Jon Stephens,100.75,Sci-Fi
+296,2,417,Juanita Mason,India,Pune,100.72,28,2,Jon Stephens,100.72,Children
+297,2,224,Ron Deluca,Japan,Isesaki,99.78,22,2,Jon Stephens,99.78,New
+298,2,440,Lisa Anderson,Japan,Sagamihara,99.77,23,2,Jon Stephens,99.77,Games
+299,1,9,Sherri Rhodes,India,Ahmadnagar,99.74,26,1,Mike Hillyer,99.74,Sci-Fi
+300,2,560,Evelyn Morgan,Liechtenstein,Vaduz,99.74,26,2,Jon Stephens,99.74,Action
+301,2,95,Ken Prewitt,Romania,Bucuresti,99.73,27,2,Jon Stephens,99.73,Horror
+302,1,552,Angel Barclay,Japan,Ueda,99.72,28,1,Mike Hillyer,99.72,Sci-Fi
+303,1,3,Tom Milner,United Arab Emirates,Abu Dhabi,99.71,29,1,Mike Hillyer,99.71,Action
+304,2,493,Bobby Boudreau,Anguilla,South Hill,99.68,32,2,Jon Stephens,99.68,Travel
+305,1,267,Ruth Martinez,South Africa,Kimberley,98.82,18,1,Mike Hillyer,98.82,Sports
+306,2,234,Frank Waggoner,Bangladesh,Jamalpur,98.77,23,2,Jon Stephens,98.77,Music
+307,1,18,Annette Olson,India,Allappuzha (Alleppey),98.76,24,1,Mike Hillyer,98.76,Games
+308,2,42,Clinton Buford,United States,Aurora,98.76,24,2,Jon Stephens,159.58,Children
+309,2,572,Jeremy Hurtado,Brazil,Vitria de Santo Anto,98.75,25,2,Jon Stephens,98.75,Animation
+310,1,203,Gwendolyn May,Japan,Higashiosaka,98.75,25,1,Mike Hillyer,98.75,Sci-Fi
+311,2,452,Francis Sikes,Mexico,San Juan Bautista Tuxtepec,98.75,25,2,Jon Stephens,98.75,Travel
+312,1,219,Ross Grey,Philippines,Iligan,98.74,26,1,Mike Hillyer,98.74,Foreign
+313,2,105,Rose Howard,French Guiana,Cayenne,97.8,20,2,Jon Stephens,97.8,Animation
+314,1,8,Adam Gooch,India,Adoni,97.8,20,1,Mike Hillyer,97.8,Children
+315,1,170,Leon Bostic,Colombia,Florencia,97.79,21,1,Mike Hillyer,97.79,Animation
+316,2,385,Pedro Chestnut,Ukraine,ostka,97.78,22,2,Jon Stephens,97.78,Games
+317,1,488,Wallace Slone,Nigeria,Sokoto,97.78,22,1,Mike Hillyer,97.78,Foreign
+318,2,141,Rodney Moeller,Nigeria,Deba Habe,97.78,22,2,Jon Stephens,97.78,Animation
+319,1,169,Laurie Lawrence,India,Firozabad,97.78,22,1,Mike Hillyer,97.78,Comedy
+320,2,566,Shannon Freeman,India,Varanasi (Benares),97.77,23,2,Jon Stephens,97.77,New
+321,2,342,Mabel Holland,Myanmar,Monywa,97.75,25,2,Jon Stephens,97.75,Comedy
+322,1,246,Virgil Wofford,Mexico,Jos Azueta,97.75,25,1,Mike Hillyer,97.75,Foreign
+323,1,446,Cassandra Walters,United States,Salinas,96.79,21,1,Mike Hillyer,96.79,Documentary
+324,1,73,Carlos Coughlin,India,Bhavnagar,96.79,21,1,Mike Hillyer,96.79,Comedy
+325,1,395,Nina Soto,India,Palghat (Palakkad),96.79,21,1,Mike Hillyer,96.79,Children
+326,1,52,Albert Crouse,Cameroon,Bamenda,96.78,22,1,Mike Hillyer,96.78,Foreign
+327,1,497,Louise Jenkins,South Africa,Springs,96.78,22,1,Mike Hillyer,96.78,Sci-Fi
+328,1,19,Vincent Ralston,Mexico,Allende,96.77,23,1,Mike Hillyer,96.77,Travel
+329,2,120,Betty White,United States,Citrus Heights,96.77,23,2,Jon Stephens,96.77,Action
+330,2,545,Edward Baugh,Faroe Islands,Trshavn,96.76,24,2,Jon Stephens,96.76,Animation
+331,1,152,Velma Lucas,Nigeria,Effon-Alaiye,96.76,24,1,Mike Hillyer,96.76,Drama
+332,1,161,Micheal Forman,Argentina,Escobar,96.76,24,1,Mike Hillyer,96.76,Animation
+333,1,318,Reginald Kinder,Indonesia,Madiun,96.75,25,1,Mike Hillyer,96.75,New
+334,1,293,Melvin Ellington,China,Laohekou,96.75,25,1,Mike Hillyer,96.75,Games
+335,1,431,Denise Kelly,Brazil,Rio Claro,96.74,26,1,Mike Hillyer,96.74,Sci-Fi
+336,1,426,Dwayne Olvera,India,Rajkot,95.8,20,1,Mike Hillyer,95.8,Animation
+337,1,225,Connie Wallace,Russian Federation,Ivanovo,95.79,21,1,Mike Hillyer,95.79,Horror
+338,2,103,Willard Lumpkin,Mexico,Carmen,95.79,21,2,Jon Stephens,95.79,Classics
+339,2,309,Darren Windham,Italy,Livorno,95.78,22,2,Jon Stephens,95.78,Animation
+340,2,288,Shane Millard,Mexico,La Paz,95.78,22,2,Jon Stephens,95.78,Drama
+341,2,405,Stacy Cunningham,Colombia,Pereira,95.78,22,2,Jon Stephens,95.78,Documentary
+342,2,591,Gary Coy,China,Yuzhou,95.78,22,2,Jon Stephens,95.78,Music
+343,2,581,Walter Perryman,China,Xinxiang,95.76,24,2,Jon Stephens,95.76,Sports
+344,2,194,Beth Franklin,Vietnam,Haiphong,95.76,24,2,Jon Stephens,95.76,New
+345,2,600,Ronnie Ricketts,Senegal,Ziguinchor,95.76,24,2,Jon Stephens,95.76,Sci-Fi
+346,2,87,Esther Crawford,South Africa,Botshabelo,95.72,28,2,Jon Stephens,95.72,Animation
+347,1,443,Laura Rodriguez,Morocco,Sal,94.81,19,1,Mike Hillyer,94.81,Foreign
+348,2,202,Danielle Daniels,Mexico,Hidalgo,94.78,22,2,Jon Stephens,94.78,Sports
+349,1,475,Nicole Peterson,India,Shivapuri,94.78,22,1,Mike Hillyer,94.78,Classics
+350,1,573,Brandy Graves,United States,Warren,94.77,23,1,Mike Hillyer,94.77,Documentary
+351,2,232,Suzanne Nichols,Indonesia,Jakarta,94.76,24,2,Jon Stephens,94.76,Games
+352,1,533,Geraldine Perkins,Israel,Tel Aviv-Jaffa,94.76,24,1,Mike Hillyer,94.76,Foreign
+353,1,162,Dorothy Taylor,Iran,Esfahan,94.76,24,1,Mike Hillyer,94.76,Documentary
+354,1,102,Carmen Owens,Venezuela,Caracas,94.75,25,1,Mike Hillyer,94.75,Action
+355,1,81,Kevin Schuler,Nepal,Birgunj,93.83,17,1,Mike Hillyer,93.83,Foreign
+356,1,67,Claude Herzog,Angola,Benguela,93.8,20,1,Mike Hillyer,93.8,Comedy
+357,1,364,Edwin Burk,South Africa,Newcastle,93.8,20,1,Mike Hillyer,93.8,Games
+358,2,486,Francisco Skidmore,Brazil,So Leopoldo,93.79,21,2,Jon Stephens,93.79,Animation
+359,2,451,Ronald Weiner,Mexico,San Felipe del Progreso,93.79,21,2,Jon Stephens,93.79,Games
+360,1,173,Dawn Sullivan,Tuvalu,Funafuti,93.78,22,1,Mike Hillyer,93.78,Children
+361,1,427,Joshua Mark,India,Rampur,93.78,22,1,Mike Hillyer,93.78,Animation
+362,1,521,Phillip Holm,Japan,Tama,93.76,24,1,Mike Hillyer,93.76,Sci-Fi
+363,1,360,Martin Bales,Angola,Namibe,93.75,25,1,Mike Hillyer,93.75,Animation
+364,1,26,Tamara Nguyen,Brazil,Anpolis,93.75,25,1,Mike Hillyer,93.75,Sports
+365,1,265,Howard Fortner,Iran,Kermanshah,93.74,26,1,Mike Hillyer,93.74,Classics
+366,1,582,Nancy Thomas,India,Yamuna Nagar,93.74,26,1,Mike Hillyer,93.74,Drama
+367,1,247,Frances Parker,Brazil,Juazeiro do Norte,92.81,19,1,Mike Hillyer,92.81,Action
+368,2,485,Cody Nolen,Brazil,So Bernardo do Campo,92.8,20,2,Jon Stephens,92.8,Family
+369,2,25,Joseph Joy,Brazil,Angra dos Reis,92.8,20,2,Jon Stephens,92.8,Action
+370,2,377,Bruce Schwarz,Japan,Okinawa,92.79,21,2,Jon Stephens,92.79,Animation
+371,1,319,Andrea Henderson,Madagascar,Mahajanga,92.79,21,1,Mike Hillyer,92.79,Horror
+372,1,502,Chester Benner,China,Suihua,92.78,22,1,Mike Hillyer,92.78,Action
+373,2,501,Joel Francisco,Bolivia,Sucre,92.78,22,2,Jon Stephens,92.78,Animation
+374,2,60,Elmer Noe,Cambodia,Battambang,92.76,24,2,Jon Stephens,92.76,Animation
+375,1,62,Melanie Armstrong,Philippines,Bayugan,92.75,25,1,Mike Hillyer,92.75,Drama
+376,2,404,Carole Barnett,United States,Peoria,92.75,25,2,Jon Stephens,92.75,Family
+377,2,158,Dustin Gillette,Netherlands,Emmen,92.75,25,2,Jon Stephens,92.75,Family
+378,1,519,Rafael Abney,Philippines,Talavera,91.81,19,1,Mike Hillyer,91.81,Animation
+379,1,376,Ricardo Meador,Japan,Okayama,91.81,19,1,Mike Hillyer,91.81,Family
+380,2,65,Wilma Richards,United States,Bellevue,91.8,20,2,Jon Stephens,91.8,Children
+381,1,362,Pamela Baker,China,Nanyang,91.79,21,1,Mike Hillyer,91.79,Comedy
+382,1,575,Vicki Fields,Germany,Witten,91.78,22,1,Mike Hillyer,91.78,Animation
+383,1,16,Travis Estep,Saudi Arabia,al-Qatif,91.78,22,1,Mike Hillyer,91.78,Animation
+384,2,6,Sean Douglass,Ethiopia,Addis Abeba,91.77,23,2,Jon Stephens,91.77,Animation
+385,2,130,Matthew Mahan,Mexico,Cuautla,91.75,25,2,Jon Stephens,91.75,Action
+386,2,341,Ivan Cromwell,Mexico,Monclova,91.75,25,2,Jon Stephens,91.75,Documentary
+387,2,139,Judith Cox,China,Daxian,91.7,30,2,Jon Stephens,91.7,Documentary
+388,1,28,Natalie Meyer,Brazil,Aparecida de Goinia,90.78,22,1,Mike Hillyer,90.78,Travel
+389,1,548,Deanna Byrd,Philippines,Tuguegarao,90.78,22,1,Mike Hillyer,90.78,Foreign
+390,2,268,Emily Diaz,South Korea,Kimchon,90.77,23,2,Jon Stephens,90.77,Sports
+391,1,462,Kelly Knott,China,Sanya,90.77,23,1,Mike Hillyer,90.77,Action
+392,2,31,Kathleen Adams,Iran,Arak,90.75,25,2,Jon Stephens,90.75,Music
+393,1,182,Derek Blakely,Philippines,Gingoog,90.73,27,1,Mike Hillyer,90.73,Sci-Fi
+394,2,193,Hugh Waldrop,China,Haining,89.8,20,2,Jon Stephens,89.8,Classics
+395,2,48,Andrew Purdy,Azerbaijan,Baku,89.78,22,2,Jon Stephens,89.78,Games
+396,2,167,Christine Roberts,French Polynesia,Faaa,89.78,22,2,Jon Stephens,89.78,New
+397,2,114,Beverly Brooks,Taiwan,Chiayi,89.78,22,2,Jon Stephens,89.78,Children
+398,1,188,Benjamin Varney,Mexico,Guadalajara,89.78,22,1,Mike Hillyer,89.78,Action
+399,1,96,Jackie Lynch,Colombia,Buenaventura,89.77,23,1,Mike Hillyer,89.77,Animation
+400,2,63,Judy Gray,Algeria,Bchar,89.77,23,2,Jon Stephens,89.77,Sci-Fi
+401,2,163,Edgar Rhoads,Turkey,Eskisehir,89.77,23,2,Jon Stephens,89.77,Horror
+402,1,381,Bertha Ferguson,Nigeria,Ondo,89.77,23,1,Mike Hillyer,89.77,Horror
+403,2,216,Lillie Kim,Egypt,Idfu,89.77,23,2,Jon Stephens,89.77,Family
+404,2,284,Rebecca Scott,Japan,Kurashiki,89.76,24,2,Jon Stephens,89.76,Games
+405,2,196,Darrell Power,Canada,Halifax,89.76,24,2,Jon Stephens,89.76,Sci-Fi
+406,2,585,Lawrence Lawton,Cameroon,Yaound,89.71,29,2,Jon Stephens,89.71,Foreign
+407,2,535,Dora Medina,China,Tianjin,88.81,19,2,Jon Stephens,88.81,Games
+408,1,124,Stella Moreno,Mexico,Coacalco de Berriozbal,88.81,19,1,Mike Hillyer,88.81,Sci-Fi
+409,2,348,Aaron Selby,"Congo, The Democratic Republic of the",Mwene-Ditu,88.8,20,2,Jon Stephens,88.8,Travel
+410,2,17,Anna Hill,Italy,Alessandria,88.8,20,2,Jon Stephens,88.8,Animation
+411,1,231,Mildred Bailey,India,Jaipur,88.78,22,1,Mike Hillyer,88.78,Action
+412,1,23,Glenn Pullen,Netherlands,Amersfoort,88.78,22,1,Mike Hillyer,88.78,Sports
+413,1,559,Georgia Jacobs,India,Uttarpara-Kotrung,88.77,23,1,Mike Hillyer,88.77,Animation
+414,1,355,Heather Morris,Japan,Nagareyama,88.76,24,1,Mike Hillyer,88.76,Classics
+415,1,541,Pauline Henry,Mexico,Torren,88.75,25,1,Mike Hillyer,88.75,Drama
+416,2,517,Theresa Watson,Philippines,Taguig,88.73,27,2,Jon Stephens,88.73,Action
+417,1,156,Donna Thompson,Russian Federation,Elista,87.82,18,1,Mike Hillyer,87.82,Foreign
+418,1,184,Tara Ryan,Indonesia,Gorontalo,87.81,19,1,Mike Hillyer,87.81,Action
+419,1,260,Kurt Emmons,Japan,Kanazawa,87.8,20,1,Mike Hillyer,87.8,Classics
+420,1,33,Richard Mccrary,United States,Arlington,87.8,20,1,Mike Hillyer,87.8,Foreign
+421,1,571,Harvey Guajardo,Vietnam,Vinh,87.8,20,1,Mike Hillyer,87.8,Classics
+422,1,179,Derrick Bourque,Canada,Gatineau,87.8,20,1,Mike Hillyer,87.8,Animation
+423,2,37,Maureen Little,Paraguay,Asuncin,87.79,21,2,Jon Stephens,87.79,Animation
+424,1,383,Loretta Carpenter,Canada,Oshawa,87.79,21,1,Mike Hillyer,87.79,Animation
+425,1,190,Charlotte Hunter,Brazil,guas Lindas de Gois,87.78,22,1,Mike Hillyer,87.78,Sci-Fi
+426,1,597,Jack Foust,Russian Federation,Zeleznogorsk,87.77,23,1,Mike Hillyer,87.77,Games
+427,1,503,Freddie Duggan,Peru,Sullana,87.77,23,1,Mike Hillyer,87.77,Foreign
+428,1,110,Raul Fortier,India,Chapra,86.82,18,1,Mike Hillyer,86.82,Animation
+429,1,36,Lewis Lyman,Israel,Ashqelon,86.81,19,1,Mike Hillyer,86.81,Action
+430,1,473,Nellie Garrett,India,Shimoga,86.81,19,1,Mike Hillyer,86.81,Children
+431,1,314,Ruben Geary,Poland,Lublin,86.81,19,1,Mike Hillyer,86.81,New
+432,1,477,Vanessa Sims,Germany,Siegen,86.81,19,1,Mike Hillyer,86.81,Drama
+433,2,407,Erica Matthews,China,Pingxiang,86.8,20,2,Jon Stephens,86.8,Drama
+434,1,579,Kelly Torres,China,Xiangtan,86.8,20,1,Mike Hillyer,86.8,Action
+435,2,448,Agnes Bishop,India,Sambhal,86.79,21,2,Jon Stephens,86.79,Action
+436,1,2,Peggy Myers,Saudi Arabia,Abha,86.77,23,1,Mike Hillyer,86.77,Animation
+437,2,596,Constance Reid,Nigeria,Zaria,86.77,23,2,Jon Stephens,86.77,Sci-Fi
+438,1,264,Chad Carbone,India,Katihar,86.76,24,1,Mike Hillyer,86.76,Animation
+439,2,406,Allison Stanley,Cambodia,Phnom Penh,86.75,25,2,Jon Stephens,86.75,Foreign
+440,1,51,Lucy Wheeler,India,Balurghat,86.75,25,1,Mike Hillyer,86.75,Documentary
+441,2,178,Ian Still,United States,Garland,86.75,25,2,Jon Stephens,86.75,Animation
+442,1,365,Wendy Harrison,Mexico,Nezahualcyotl,86.73,27,1,Mike Hillyer,86.73,Classics
+443,2,466,Alfredo Mcadams,Russian Federation,Serpuhov,85.8,20,2,Jon Stephens,85.8,Travel
+444,2,290,Randall Neumann,Dominican Republic,La Romana,85.8,20,2,Jon Stephens,85.8,Foreign
+445,2,153,Jon Wiles,Bolivia,El Alto,85.78,22,2,Jon Stephens,85.78,Documentary
+446,2,322,Victor Barkley,United States,Manchester,85.78,22,2,Jon Stephens,85.78,Documentary
+447,2,20,Willie Markham,Argentina,Almirante Brown,85.78,22,2,Jon Stephens,85.78,Documentary
+448,2,200,Susan Wilson,New Zealand,Hamilton,85.77,23,2,Jon Stephens,85.77,Classics
+449,2,128,Kimberly Lee,Argentina,Crdoba,85.77,23,2,Jon Stephens,85.77,Animation
+450,2,30,Jane Bennett,Brazil,Araatuba,85.77,23,2,Jon Stephens,85.77,Classics
+451,1,509,Jay Robb,Indonesia,Surakarta,85.75,25,1,Mike Hillyer,85.75,Drama
+452,2,396,Lonnie Tirado,Indonesia,Pangkal Pinang,84.84,16,2,Jon Stephens,84.84,Horror
+453,2,275,Julio Noland,Ukraine,Konotop,84.81,19,2,Jon Stephens,84.81,Family
+454,2,49,Doris Reed,Russian Federation,Balaiha,84.81,19,2,Jon Stephens,84.81,Games
+455,1,561,Mathew Bolin,Venezuela,Valencia,84.8,20,1,Mike Hillyer,84.8,Sports
+456,2,113,Bonnie Hughes,South Korea,Cheju,84.8,20,2,Jon Stephens,84.8,Family
+457,2,205,James Gannon,Japan,Hiroshima,84.79,21,2,Jon Stephens,84.79,Drama
+458,2,295,Jennifer Davis,United States,Laredo,84.75,25,2,Jon Stephens,84.75,Drama
+459,1,123,Eva Ramos,United States,Clarksville,83.82,18,1,Mike Hillyer,83.82,Sci-Fi
+460,1,180,Corey Hauser,Turkey,Gaziantep,83.81,19,1,Mike Hillyer,83.81,Classics
+461,1,266,Leslie Gordon,Turkey,Kilis,83.8,20,1,Mike Hillyer,83.8,Documentary
+462,1,144,Bernard Colby,India,Dhule (Dhulia),83.79,21,1,Mike Hillyer,83.79,Drama
+463,1,296,Wade Delvalle,Switzerland,Lausanne,83.78,22,1,Mike Hillyer,83.78,Comedy
+464,1,201,Patrick Newsom,Vietnam,Hanoi,83.77,23,1,Mike Hillyer,83.77,New
+465,2,432,Tyler Wren,China,Rizhao,82.81,19,2,Jon Stephens,82.81,Drama
+466,2,580,Bob Pfeiffer,China,Xintai,82.78,22,2,Jon Stephens,82.78,Classics
+467,1,444,Gene Sanborn,Oman,Salala,82.76,24,1,Mike Hillyer,82.76,New
+468,2,142,Vernon Chapa,Turkey,Denizli,81.83,17,2,Jon Stephens,81.83,Comedy
+469,1,419,Jared Ely,Indonesia,Purwakarta,81.83,17,1,Mike Hillyer,81.83,Animation
+470,1,262,Thomas Grigsby,United States,Kansas City,81.81,19,1,Mike Hillyer,81.81,New
+471,2,373,Yvonne Watkins,Venezuela,Ocumare del Tuy,81.81,19,2,Jon Stephens,81.81,Action
+472,1,45,Jason Morrissey,Argentina,Baha Blanca,81.81,19,1,Mike Hillyer,81.81,Action
+473,2,515,Mark Rinehart,Saudi Arabia,Tabuk,81.8,20,2,Jon Stephens,81.8,Action
+474,2,199,Lorraine Stephens,China,Hami,81.8,20,2,Jon Stephens,81.8,Classics
+475,2,349,Barbara Jones,Myanmar,Myingyan,81.78,22,2,Jon Stephens,81.78,Horror
+476,1,24,Christian Jung,India,Amroha,81.78,22,1,Mike Hillyer,81.78,Family
+477,2,498,Jessie Banks,Bulgaria,Stara Zagora,81.76,24,2,Jon Stephens,81.76,Foreign
+478,1,339,Cory Meehan,Belarus,Mogiljov,81.76,24,1,Mike Hillyer,81.76,Action
+479,2,291,Megan Palmer,China,Laiwu,81.75,25,2,Jon Stephens,81.75,Action
+480,2,286,Paul Trout,Russian Federation,Kursk,80.85,15,2,Jon Stephens,80.85,Documentary
+481,2,481,Oscar Aquino,Iran,Sirjan,80.83,17,2,Jon Stephens,80.83,Horror
+482,2,122,Eileen Carr,Paraguay,Ciudad del Este,80.82,18,2,Jon Stephens,80.82,Horror
+483,1,336,Steven Curley,India,Miraj,80.81,19,1,Mike Hillyer,80.81,Sci-Fi
+484,1,438,Vivian Ruiz,Netherlands,s-Hertogenbosch,80.8,20,1,Mike Hillyer,80.8,Animation
+485,1,562,Kristina Chambers,Venezuela,Valle de la Pascua,80.78,22,1,Mike Hillyer,80.78,Horror
+486,2,522,Becky Miles,India,Tambaram,80.78,22,2,Jon Stephens,80.78,Documentary
+487,1,90,Keith Rico,Slovakia,Bratislava,80.77,23,1,Mike Hillyer,80.77,Drama
+488,2,588,Roland South,China,Yingkou,80.77,23,2,Jon Stephens,80.77,Family
+489,2,99,David Royal,Peru,Callao,79.81,19,2,Jon Stephens,79.81,Sci-Fi
+490,2,273,Edna West,South Africa,Klerksdorp,79.81,19,2,Jon Stephens,79.81,Classics
+491,1,467,Roberta Harper,Iran,Shahr-e Kord,79.8,20,1,Mike Hillyer,79.8,Action
+492,2,411,Jenny Castro,Puerto Rico,Ponce,79.8,20,2,Jon Stephens,79.8,Foreign
+493,2,315,Jesse Schilling,"Congo, The Democratic Republic of the",Lubumbashi,79.78,22,2,Jon Stephens,79.78,Games
+494,1,229,Clarence Gamez,Japan,Izumisano,79.75,25,1,Mike Hillyer,79.75,Sci-Fi
+495,2,547,Frederick Isbell,Japan,Tsuyama,78.84,16,2,Jon Stephens,78.84,Comedy
+496,2,537,Austin Cintron,China,Tieli,78.82,18,2,Jon Stephens,78.82,Comedy
+497,2,252,Carol Garcia,Nigeria,Kaduna,78.81,19,2,Jon Stephens,78.81,Classics
+498,2,329,Margaret Moore,Oman,Masqat,78.8,20,2,Jon Stephens,78.8,Foreign
+499,1,392,Dennis Gilman,South Africa,Paarl,78.8,20,1,Mike Hillyer,78.8,Sports
+500,1,387,Erika Pena,Finland,Oulu,78.79,21,1,Mike Hillyer,78.79,Action
+501,1,441,Joan Cooper,United States,Saint Louis,78.79,21,1,Mike Hillyer,78.79,Games
+502,1,439,Colleen Burton,Germany,Saarbrcken,78.78,22,1,Mike Hillyer,78.78,Documentary
+503,2,249,Ricky Shelby,China,Junan,78.77,23,2,Jon Stephens,78.77,Animation
+504,1,324,Melinda Fernandez,Pakistan,Mandi Bahauddin,77.84,16,1,Mike Hillyer,77.84,Action
+505,1,421,Emma Boyd,Egypt,Qalyub,77.81,19,1,Mike Hillyer,77.81,Horror
+506,1,92,Luis Yanez,France,Brest,77.81,19,1,Mike Hillyer,77.81,Drama
+507,2,181,Chris Brothers,Spain,Gijn,77.8,20,2,Jon Stephens,77.8,Action
+508,2,210,Ernest Stepp,China,Huaian,77.79,21,2,Jon Stephens,77.79,Foreign
+509,1,543,Rita Graham,France,Toulon,77.78,22,1,Mike Hillyer,77.78,Action
+510,1,454,Lydia Burke,Argentina,San Miguel de Tucumn,77.77,23,1,Mike Hillyer,77.77,Documentary
+511,1,328,Marian Mendoza,Brazil,Maring,76.82,18,1,Mike Hillyer,76.82,Sci-Fi
+512,1,592,Phyllis Foster,China,Zalantun,76.8,20,1,Mike Hillyer,76.8,Classics
+513,1,185,Kim Cruz,United States,Grand Prairie,76.8,20,1,Mike Hillyer,76.8,Games
+514,2,243,Pearl Garza,India,Jodhpur,76.78,22,2,Jon Stephens,76.78,Foreign
+515,2,13,Christina Ramirez,Saudi Arabia,al-Hawiya,75.83,17,2,Jon Stephens,75.83,Sports
+516,1,255,Leah Curtis,Poland,Kalisz,75.81,19,1,Mike Hillyer,75.81,Children
+517,2,429,Samuel Marlow,India,Ranchi,75.8,20,2,Jon Stephens,75.8,Comedy
+518,2,21,Clayton Barbee,Brazil,Alvorada,75.79,21,2,Jon Stephens,75.79,Sci-Fi
+519,2,317,Ida Andrews,Brazil,Luzinia,75.78,22,2,Jon Stephens,75.78,Sci-Fi
+520,2,165,Darryl Ashcraft,Argentina,Ezeiza,75.78,22,2,Jon Stephens,75.78,Animation
+521,2,204,Kristen Chavez,Japan,Hino,74.84,16,2,Jon Stephens,74.84,Animation
+522,1,112,Dwight Lombardi,South Africa,Chatsworth,74.83,17,1,Mike Hillyer,74.83,Games
+523,2,208,Allen Butterfield,India,Hoshiarpur,74.83,17,2,Jon Stephens,74.83,Action
+524,2,5,Larry Thrasher,Turkey,Adana,74.81,19,2,Jon Stephens,74.81,Documentary
+525,1,155,Jacob Lance,United States,El Monte,74.8,20,1,Mike Hillyer,74.8,Action
+526,2,402,Irene Price,Kazakstan,Pavlodar,74.79,21,2,Jon Stephens,74.79,Drama
+527,1,149,April Burns,United Kingdom,Dundee,74.77,23,1,Mike Hillyer,74.77,Documentary
+528,1,44,Antonio Meek,Brazil,Bag,73.85,15,1,Mike Hillyer,73.85,Children
+529,1,433,Toni Holt,United States,Roanoke,73.83,17,1,Mike Hillyer,73.83,Classics
+530,1,375,Danny Isom,Pakistan,Okara,73.82,18,1,Mike Hillyer,73.82,Travel
+531,2,510,Herbert Kruger,Russian Federation,Syktyvkar,73.81,19,2,Jon Stephens,73.81,Documentary
+532,1,354,Alicia Mills,India,Nagaon,73.81,19,1,Mike Hillyer,73.81,Comedy
+533,1,256,Rachel Barnes,Japan,Kamakura,73.81,19,1,Mike Hillyer,73.81,Sci-Fi
+534,1,68,Lance Pemberton,Morocco,Beni-Mellal,73.8,20,1,Mike Hillyer,73.8,Foreign
+535,1,492,Gregory Mauldin,Tunisia,Sousse,73.78,22,1,Mike Hillyer,73.78,Sci-Fi
+536,1,401,Enrique Forsythe,Greece,Patras,73.78,22,1,Mike Hillyer,73.78,Sports
+537,1,117,Norman Currier,Indonesia,Cianjur,73.76,24,1,Mike Hillyer,73.76,Animation
+538,2,399,Paula Bryant,India,Pathankot,72.83,17,2,Jon Stephens,72.83,Action
+539,2,496,Armando Gruber,United Kingdom,Southport,72.82,18,2,Jon Stephens,72.82,Games
+540,1,89,Timothy Bunn,Brazil,Braslia,72.82,18,1,Mike Hillyer,72.82,New
+541,2,88,Anne Powell,United Kingdom,Bradford,72.79,21,2,Jon Stephens,72.79,Comedy
+542,2,254,Robert Baughman,Russian Federation,Kaliningrad,71.85,15,2,Jon Stephens,71.85,Sci-Fi
+543,2,235,Delores Hansen,Russian Federation,Jaroslavl,71.84,16,2,Jon Stephens,71.84,Children
+544,1,82,Norma Gonzales,Philippines,Bislig,71.81,19,1,Mike Hillyer,71.81,Family
+545,1,150,Ray Houle,Russian Federation,Dzerzinsk,71.8,20,1,Mike Hillyer,71.8,Comedy
+546,2,222,Billie Horton,Turkey,Inegl,71.79,21,2,Jon Stephens,71.79,Comedy
+547,2,330,Samantha Duncan,Mexico,Matamoros,71.77,23,2,Jon Stephens,71.77,Sports
+548,1,471,Eugene Culpepper,China,Shenzhen,70.82,18,1,Mike Hillyer,70.82,Comedy
+549,2,192,Irma Pearson,Philippines,Hagonoy,70.82,18,2,Jon Stephens,70.82,Animation
+550,2,191,Wayne Truong,India,Gulbarga,70.81,19,2,Jon Stephens,70.81,Action
+551,2,455,William Satterfield,Yemen,Sanaa,70.81,19,2,Jon Stephens,70.81,Action
+552,1,176,Edith Mcdonald,India,Gandhinagar,69.83,17,1,Mike Hillyer,69.83,Action
+553,2,594,Franklin Troutman,China,Zaoyang,69.79,21,2,Jon Stephens,69.79,Drama
+554,2,250,Fred Wheat,Mexico,Jurez,69.79,21,2,Jon Stephens,69.79,Family
+555,2,215,Daniel Cabral,Brazil,Ibirit,68.87,13,2,Jon Stephens,68.87,Comedy
+556,1,595,Floyd Gandy,Mexico,Zapopan,68.84,16,1,Mike Hillyer,68.84,Foreign
+557,2,551,Adrian Clary,Italy,Udine,68.82,18,2,Jon Stephens,68.82,Family
+558,2,331,Terry Grissom,Japan,Matsue,68.81,19,2,Jon Stephens,68.81,Action
+559,1,277,Felicia Sutton,China,Korla,68.77,23,1,Mike Hillyer,68.77,Animation
+560,2,57,Kenneth Gooden,Israel,Bat Yam,67.86,14,2,Jon Stephens,67.86,Comedy
+561,1,428,Jerome Kenyon,Chile,Rancagua,67.86,14,1,Mike Hillyer,67.86,Action
+562,1,367,Ann Evans,Russian Federation,Niznekamsk,67.86,14,1,Mike Hillyer,67.86,Foreign
+563,1,251,Vera Mccoy,Afghanistan,Kabul,67.82,18,1,Mike Hillyer,67.82,Comedy
+564,1,369,Jeanette Greene,Russian Federation,Novoterkassk,66.82,18,1,Mike Hillyer,66.82,Documentary
+565,1,532,Lloyd Dowd,Indonesia,Tegal,66.81,19,1,Mike Hillyer,66.81,Foreign
+566,2,55,Alberto Henning,Venezuela,Barcelona,66.79,21,2,Jon Stephens,66.79,Documentary
+567,1,584,Kay Caldwell,China,Yantai,65.87,13,1,Mike Hillyer,65.87,Documentary
+568,1,393,Jonathan Scarborough,Mexico,Pachuca de Soto,65.83,17,1,Mike Hillyer,65.83,Animation
+569,2,119,Jeffrey Spear,Indonesia,Ciparay,65.83,17,2,Jon Stephens,65.83,Games
+570,2,71,Marvin Yee,India,Berhampore (Baharampur),65.81,19,2,Jon Stephens,65.81,Children
+571,2,529,Joann Gardner,Turkey,Tarsus,64.85,15,2,Jon Stephens,64.85,Children
+572,1,370,Henry Billingsley,Tonga,Nukualofa,64.84,16,1,Mike Hillyer,64.84,Sports
+573,1,269,Jose Andrew,Saint Vincent and the Grenadines,Kingstown,64.82,18,1,Mike Hillyer,64.82,Horror
+574,2,166,Donald Mahon,China,Ezhou,63.84,16,2,Jon Stephens,63.84,Animation
+575,1,528,Allan Cornish,Philippines,Tarlac,63.84,16,1,Mike Hillyer,63.84,Children
+576,1,531,Juan Fraley,Russian Federation,Teboksary,63.79,21,1,Mike Hillyer,63.79,Music
+577,1,570,Felix Gaffney,Lithuania,Vilnius,63.78,22,1,Mike Hillyer,63.78,Children
+578,2,261,Lester Kraus,India,Kanchrapara,62.85,15,2,Jon Stephens,62.85,Travel
+579,1,459,Nelson Christenson,Spain,Santiago de Compostela,62.84,16,1,Mike Hillyer,62.84,Games
+580,2,276,Tony Carranza,Japan,Koriyama,61.82,18,2,Jon Stephens,61.82,Documentary
+581,1,42,Scott Shelley,United States,Aurora,60.82,18,1,Mike Hillyer,159.58,Children
+582,2,211,Anita Morales,India,Hubli-Dharwad,59.86,14,2,Jon Stephens,59.86,Action
+583,2,297,Lauren Hudson,France,Le Mans,59.83,17,2,Jon Stephens,59.83,Sports
+584,1,307,Jill Hawkins,Austria,Linz,58.83,17,1,Mike Hillyer,58.83,Action
+585,2,534,Annie Russell,Mozambique,Tete,58.82,18,2,Jon Stephens,58.82,New
+586,2,312,Mattie Hoffman,United Kingdom,London,58.8,20,2,Jon Stephens,174.54,Drama
+587,2,56,Katherine Rivera,Switzerland,Basel,57.87,13,2,Jon Stephens,57.87,Classics
+588,1,281,Sheila Wells,Turkey,Ktahya,57.86,14,1,Mike Hillyer,57.86,Documentary
+589,2,15,Johnny Turpin,Sudan,al-Qadarif,57.81,19,2,Jon Stephens,57.81,Music
+590,1,283,Penny Neal,India,Kumbakonam,56.84,16,1,Mike Hillyer,56.84,Animation
+591,2,390,Jo Fowler,Nigeria,Oyo,54.85,15,2,Jon Stephens,54.85,Sci-Fi
+592,1,563,Bobbie Craig,Mexico,Valle de Santiago,52.81,19,1,Mike Hillyer,52.81,Sports
+593,1,546,Kirk Stclair,Taiwan,Tsaotun,50.83,17,1,Mike Hillyer,50.83,Drama
+594,2,159,Tiffany Jordan,China,Enshi,49.88,12,2,Jon Stephens,49.88,Animation
+595,2,516,Anthony Schwab,American Samoa,Tafuna,47.85,15,2,Jon Stephens,47.85,Sports
